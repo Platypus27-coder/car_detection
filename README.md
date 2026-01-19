@@ -1,3 +1,12 @@
+## License
+
+This project is based on the YOLOv10 repository by Ultralytics.
+
+YOLOv10 is licensed under the **AGPL-3.0 License**.
+
+All modifications and derived works in this repository therefore
+also comply with the AGPL-3.0 license.
+
 # Car Detection using YOLOv10
 
 This project is a custom implementation based on the official YOLOv10 repository.
