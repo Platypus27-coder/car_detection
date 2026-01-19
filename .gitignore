@@ -1,0 +1,20 @@
+# Conda
+env/
+.env/
+
+# YOLO outputs
+runs/
+datasets/
+
+# Weights
+*.pt
+*.onnx
+
+# Data
+*.zip
+*.avi
+*.mp4
+
+# Python cache
+__pycache__/
+*.pyc
